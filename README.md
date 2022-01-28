@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arinanurm
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning programming 
+- 🌱 
 - 💞
 
 <!---
